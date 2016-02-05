@@ -1,0 +1,13 @@
+{
+  "name": "angular-common",
+  "homepage": "https://github.com/alizarion/angular-common",
+  "_release": "1a84909ba7",
+  "_resolution": {
+    "type": "branch",
+    "branch": "gh-pages",
+    "commit": "1a84909ba7cca2809dd88692abc12b183f99b453"
+  },
+  "_source": "https://github.com/alizarion/angular-common.git",
+  "_target": "gh-pages",
+  "_originalSource": "git://github.com/alizarion/angular-common.git"
+}

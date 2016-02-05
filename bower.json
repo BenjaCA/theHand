@@ -1,0 +1,12 @@
+{
+  "name": "webapp_seed",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "angular": "1.4.9",
+    "angular-common": "git://github.com/alizarion/angular-common.git#gh-pages",
+    "bootstrap": "^3.3.6",
+    "angular-resource": "^1.4.9"
+  }
+}
